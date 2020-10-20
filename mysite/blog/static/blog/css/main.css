@@ -17,6 +17,6 @@ body {
     text-align: right;
 }
 
-h1 {
-    color: blue;
+.post {
+    border: 1px solid #ccc;
 }
